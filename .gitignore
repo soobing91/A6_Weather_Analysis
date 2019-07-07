@@ -115,3 +115,6 @@ dmypy.json
 
 # mac stuff
 .DS_Store
+
+# key stuff
+api_keys.py
